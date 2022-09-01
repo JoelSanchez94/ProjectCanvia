@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0H8W0gdrKmwq7yH2ZYMuTD3xmCTZMbi69j2bsj/tvp6OQlJVYsgeo1ft4SQNOVa4VWqvFOWWpSZLAUFGlCMSCQ==",
+  "success": true,
+  "projectFilePath": "C:\\GitLab\\net-core-angular\\almance-app\\ProjectCanvia\\ProjectCanvia.API\\ProjectCanvia.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joel Sanchez\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Joel Sanchez\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Joel Sanchez\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Joel Sanchez\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Joel Sanchez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Joel Sanchez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
