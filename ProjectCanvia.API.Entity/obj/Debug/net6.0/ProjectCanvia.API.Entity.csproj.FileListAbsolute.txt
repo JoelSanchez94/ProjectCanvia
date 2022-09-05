@@ -1,0 +1,12 @@
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Entity\bin\Debug\net6.0\ProjectCanvia.API.Entity.deps.json
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Entity\bin\Debug\net6.0\ProjectCanvia.API.Entity.dll
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Entity\bin\Debug\net6.0\ProjectCanvia.API.Entity.pdb
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Entity\obj\Debug\net6.0\ProjectCanvia.API.Entity.csproj.AssemblyReference.cache
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Entity\obj\Debug\net6.0\ProjectCanvia.API.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Entity\obj\Debug\net6.0\ProjectCanvia.API.Entity.AssemblyInfoInputs.cache
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Entity\obj\Debug\net6.0\ProjectCanvia.API.Entity.AssemblyInfo.cs
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Entity\obj\Debug\net6.0\ProjectCanvia.API.Entity.csproj.CoreCompileInputs.cache
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Entity\obj\Debug\net6.0\ProjectCanvia.API.Entity.dll
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Entity\obj\Debug\net6.0\refint\ProjectCanvia.API.Entity.dll
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Entity\obj\Debug\net6.0\ProjectCanvia.API.Entity.pdb
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Entity\obj\Debug\net6.0\ref\ProjectCanvia.API.Entity.dll

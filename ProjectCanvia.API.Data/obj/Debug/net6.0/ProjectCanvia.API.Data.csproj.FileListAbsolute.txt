@@ -1,0 +1,17 @@
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Data\bin\Debug\net6.0\ProjectCanvia.API.Data.deps.json
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Data\bin\Debug\net6.0\ProjectCanvia.API.Data.dll
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Data\bin\Debug\net6.0\ProjectCanvia.API.Data.pdb
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Data\bin\Debug\net6.0\ProjectCanvia.API.DTO.dll
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Data\bin\Debug\net6.0\ProjectCanvia.API.Entity.dll
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Data\bin\Debug\net6.0\ProjectCanvia.API.DTO.pdb
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Data\bin\Debug\net6.0\ProjectCanvia.API.Entity.pdb
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Data\obj\Debug\net6.0\ProjectCanvia.API.Data.csproj.AssemblyReference.cache
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Data\obj\Debug\net6.0\ProjectCanvia.API.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Data\obj\Debug\net6.0\ProjectCanvia.API.Data.AssemblyInfoInputs.cache
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Data\obj\Debug\net6.0\ProjectCanvia.API.Data.AssemblyInfo.cs
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Data\obj\Debug\net6.0\ProjectCanvia.API.Data.csproj.CoreCompileInputs.cache
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Data\obj\Debug\net6.0\ProjectCanvia.API.Data.csproj.CopyComplete
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Data\obj\Debug\net6.0\ProjectCanvia.API.Data.dll
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Data\obj\Debug\net6.0\refint\ProjectCanvia.API.Data.dll
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Data\obj\Debug\net6.0\ProjectCanvia.API.Data.pdb
+C:\GitLab\ProjectCanvia\ProjectCanvia.API.Data\obj\Debug\net6.0\ref\ProjectCanvia.API.Data.dll
